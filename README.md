@@ -10,8 +10,9 @@
 - On Windows
   Open a command prompt and type in:
 
-  git clone https://github.com/Rofey/Ping-Pong
-  g++ main.cpp -lsfml-graphics -lsfml-audio -lsfml-window -lsfml-systrem
+      git clone https://github.com/Rofey/Ping-Pong
+      g++ main.cpp -lsfml-graphics -lsfml-audio -lsfml-window -lsfml-systrem
+
 
 Features:
 - Game uses OOP concepts
